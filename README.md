@@ -15,7 +15,7 @@ Further split the React Native code based on Metro build to improve performance,
   |  metro version  | metro-code-split version |
   |:---------------:|:------------------------:|
   | 0.64.0 - 0.66.2 |          0.1.x           |
-  |     0.81.5      |       未发包（需要自己发包）        |
+  |     0.81.5      |      Package not generated yet<br/> (requires manual packaging)        |
 
 ## How to use it?
 
